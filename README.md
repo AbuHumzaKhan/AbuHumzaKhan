@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuhumzakhan" alt="GitHub Trophies" /></a> </p>
 
-- 🌱 I’m currently learning **Data Analytics, Python, MySQL, Power BI, Excel**
+- 🌱 I’m currently learning and enhancing my skills in **Data Analytics, Python, MySQL, Power BI, Excel, Data Cleaning, Data Visualization, Artificial Intelligence (AI), and more**.
 
 - 👨‍💻 All of my projects are available at [AbuHumzaKhan.github.io](https://abuhumzakhan.github.io)
 
-- 💬 Ask me about **Data Analytics**
+- 💬 Ask me about **Data Analytics, Data Visualization, Python, SQL, AI, and related topics**
 
 - 📫 How to reach me **abuhumzakhan87@gmail.com**
 
@@ -31,6 +31,9 @@
   <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
   <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
   <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/></a>
+  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
+  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abuhumzakhan&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
