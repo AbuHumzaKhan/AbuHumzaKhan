@@ -6,9 +6,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuhumzakhan" alt="GitHub Trophies" /></a> </p>
 
-- 🌱 I’m currently learning and enhancing my skills in **Data Analytics, Python, MySQL, Power BI, Excel, Data Cleaning, Data Visualization, Artificial Intelligence (AI), and more**.
+- 🌱 I’m currently learning and enhancing my skills in **Data Analytics, Python, MySQL, Power BI, Excel, Data Cleaning, Data Visualization, Artificial Intelligence (AI), and more**. https://abuhumzakhan.github.io/AHK-Portfolio.github.io/
 
-- 👨‍💻 All of my projects are available at [AbuHumzaKhan.github.io](https://abuhumzakhan.github.io/Abuhumzakhan-portfolio-website/)
+- 👨‍💻 All of my projects are available at [AbuHumzaKhan.github.io](https://abuhumzakhan.github.io/AHK-Portfolio.github.io/)
 
 - 💬 Ask me about **Data Analytics, Data Visualization, Python, SQL, AI, and related topics**
 
