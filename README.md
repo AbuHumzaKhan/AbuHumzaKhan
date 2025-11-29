@@ -1,43 +1,103 @@
-<h1 align="center">Hi 👋, I'm AbuHumzaKhan</h1>
-<h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="Data Analyst" width="400" src="https://iconscout.com/lottie-animation/data-analysis-processing-4209908.gif">
+<h1 align="center">Hi 👋, I'm Abu Humza Khan</h1>
+<h3 align="center">Business Intelligence & Data Analyst | Turning Data Into Actionable Insights</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abuhumzakhan&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" /> </p>
+<!-- 👉 Replace the link below with YOUR UPLOADED IMAGE URL -->
+<img align="right" alt="Abu Humza Khan" width="350" 
+src="YOUR_UPLOADED_GITHUB_IMAGE_URL_HERE"
+style="border-radius: 12px; box-shadow: 0 0 12px #00eaff;">
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abuhumzakhan" alt="GitHub Trophies" /></a> </p>
+---
 
-- 🌱 I’m currently learning and enhancing my skills in **Data Analytics, Python, MySQL, Power BI, Excel, Data Cleaning, Data Visualization, Artificial Intelligence (AI), and more**. 
+### 🚀 **About Me**
 
-- 👨‍💻 All of my projects are available at https://abuhumzakhan.github.io/AHK-Portfolio.github.io/
+📊 A passionate BI & Data Analyst from India, focused on turning raw data into meaningful, actionable insights.
 
-- 💬 Ask me about **Data Analytics, Data Visualization, Python, SQL, AI, and related topics**
+🌱 Actively improving my expertise in  
+**Power BI | Python | SQL | Excel | Data Modeling | Data Cleaning | AI Tools**
 
-- 📫 How to reach me **abuhumzakhan87@gmail.com**
+💼 Explore my featured projects here:  
+**Portfolio:** https://abuhumzakhan.github.io/AHK-Portfolio.github.io/
 
-<h3 align="left">Connect with me:</h3>
+📬 Contact me at **abuhumzakhan87@gmail.com**
+
+---
+
+## 🔗 **Connect with Me**
 <p align="left">
-  <a href="https://linkedin.com/in/abu-humza-khan-9535a5254" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://www.kaggle.com/abuhumzakhan" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="Kaggle" height="30" width="40" /></a>
-  <a href="https://www.instagram.com/abu_humza_khan/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.hackerrank.com/abuhumzakhan87" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="HackerRank" height="30" width="40" /></a>
-  <a href="https://leetcode.com/humza_72/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://www.hackerearth.com/abuhumzakhan87" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="HackerEarth" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/abu-humza-khan-9535a5254" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="45"/>
+  </a>
+  <a href="https://www.kaggle.com/abuhumzakhan" target="_blank">
+    <img src="https://skillicons.dev/icons?i=kaggle" width="45"/>
+  </a>
+  <a href="https://leetcode.com/humza_72/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=leetcode" width="45"/>
+  </a>
+  <a href="https://www.hackerrank.com/abuhumzakhan87" target="_blank">
+    <img src="https://skillicons.dev/icons?i=hackerrank" width="45"/>
+  </a>
+  <a href="https://www.instagram.com/abu_humza_khan/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" width="45"/>
+  </a>
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left">
-  <a href="https://www.mongodb.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="MongoDB" width="40" height="40"/></a>
-  <a href="https://pandas.pydata.org/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="Pandas" width="40" height="40"/></a>
-  <a href="https://www.postgresql.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="PostgreSQL" width="40" height="40"/></a>
-  <a href="https://www.python.org" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/></a>
-  <a href="https://seaborn.pydata.org/" target="_blank"><img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="Seaborn" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/power-platform/products/power-bi" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="Power BI" width="40" height="40"/></a>
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40"/></a>
-  <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/excel/excel-original.svg" alt="Excel" width="40" height="40"/></a>
+---
+
+## 🧰 **Tech Stack**
+
+### 📊 **Data Analytics & BI Tools**
+<p>
+  <img src="https://skillicons.dev/icons?i=python" width="45"/>
+  <img src="https://skillicons.dev/icons?i=mysql" width="45"/>
+  <img src="https://skillicons.dev/icons?i=postgres" width="45"/>
+  <img src="https://skillicons.dev/icons?i=sqlite" width="45"/>
+  <img src="https://skillicons.dev/icons?i=powerbi" width="45"/>
+  <img src="https://skillicons.dev/icons?i=excel" width="45"/>
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abuhumzakhan&show_icons=true&locale=en&layout=compact" alt="Top Languages" /></p>
+### 📚 **Python Libraries**
+<p>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pandas/pandas-original.svg" width="45"/>
+  <img src="https://numpy.org/images/logo.svg" width="45"/>
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" width="45"/>
+</p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abuhumzakhan&show_icons=true&locale=en" alt="GitHub Stats" /></p>
+### 🛠 **Other Tools & Platforms**
+<p>
+  <img src="https://skillicons.dev/icons?i=github" width="45"/>
+  <img src="https://skillicons.dev/icons?i=vscode" width="45"/>
+  <img src="https://skillicons.dev/icons?i=bash" width="45"/>
+  <img src="https://skillicons.dev/icons?i=figma" width="45"/>
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abuhumzakhan" alt="GitHub Streak" /></p>
+---
+
+
+## 💡 **What I Do as a BI / Data Analyst**
+
+- ✔ Data Cleaning & Transformation  
+- ✔ Exploratory Data Analysis (EDA)  
+- ✔ Dashboard Development  
+- ✔ Power BI Data Modeling  
+- ✔ SQL Query Optimization  
+- ✔ Python-Based Analysis  
+- ✔ Business Insights & Storytelling  
+
+---
+
+## 🌟 **Featured Projects**
+📌 *(Add project repository links here)*
+
+- 🔸 **IPL Analytics Dashboard – Power BI**  
+- 🔸 **Sales Analytics (Retail) – MySQL + Power BI**  
+- 🔸 **Olist Brazilian E-Commerce Analysis – Python + SQL + BI**  
+- 🔸 **Superstore Dataset – End-to-End BI Project**  
+
+---
+
+## ❤️ **Support & Collaboration**
+
+If you enjoy my work, consider giving a ⭐ to my repositories.  
+Open to **collaboration**, **freelance BI projects**, and **analytical problem-solving**!
+
+---
