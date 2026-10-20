@@ -1,0 +1,809 @@
+customer_id,tenure_months,contract_type,internet_service,monthly_charges_inr,total_charges_inr,support_tickets_90d,late_payments_12m,payment_method,autopay_enabled,senior_citizen,churned
+C0001,18,Month-to-month,Fiber,347,5871.24,7,1,Bank transfer,Yes,No,Yes
+C0002,35,Month-to-month,Fiber,444,14918.40,6,2,Credit card,Yes,No,Yes
+C0003,52,Month-to-month,Fiber,541,27569.36,5,3,Digital wallet,No,No,Yes
+C0004,69,Month-to-month,Fiber,638,44022.00,4,4,Electronic check,Yes,No,Yes
+C0005,14,One year,DSL,735,10495.80,3,5,Bank transfer,Yes,No,No
+C0006,31,One year,DSL,832,26823.68,2,0,Credit card,No,No,No
+C0007,48,One year,DSL,929,47267.52,1,2,Digital wallet,Yes,Yes,No
+C0008,65,Two year,DSL,276,19375.20,0,3,Electronic check,Yes,No,No
+C0009,10,Two year,No internet,373,3431.60,7,4,Bank transfer,No,No,Yes
+C0010,27,Month-to-month,Fiber,470,11928.60,6,5,Credit card,Yes,No,Yes
+C0011,44,Month-to-month,Fiber,567,23950.08,6,0,Digital wallet,Yes,No,No
+C0012,61,Month-to-month,Fiber,664,39693.92,5,1,Electronic check,No,No,Yes
+C0013,6,Month-to-month,Fiber,761,4566.00,4,2,Bank transfer,Yes,No,Yes
+C0014,23,Month-to-month,Fiber,858,20128.68,3,4,Credit card,Yes,Yes,Yes
+C0015,40, One year ,DSL,955,39728.00,2,5,Digital wallet,No,No,No
+C0016,57,One year,DSL,302,18246.84,1,0,Electronic check,Yes,No,No
+C0017,2,One year,DSL,399,861.84,0,1,Bank transfer,Yes,No,No
+C0018,19,Two year,DSL,496,8670.08,7,2,Credit card,No,No,No
+C0019,36,Two year,No internet,593,20067.12,6,3,Digital wallet,Yes,No,No
+C0020,53,Month-to-month,Fiber,690,35107.20,5,4,Electronic check,Yes,No,Yes
+C0021,70,Month-to-month,Fiber,787,53988.20,4,0,Bank transfer,No,Yes,Yes
+C0022,15,Month-to-month,Fiber,884,13260.00,4,1,Credit card,Yes,No,Yes
+C0023,32,Month-to-month,Fiber,981,32019.84,3,2,Digital wallet,Yes,No,Yes
+C0024,49,Month-to-month,Fiber,328,16714.88,2,3,Electronic check,No,No,Yes
+C0025,66,One year,DSL,425,29733.00,1,4,Bank transfer,Yes,No,No
+C0026,11,One year,DSL,522,6201.36,0,5,Credit card  ,Yes,No,No
+C0027,28,One year,DSL,619,15945.44,7,0,Digital wallet,No,No,No
+C0028,45,Two year,DSL,716,30286.80,6,2,Electronic check,Yes,Yes,No
+C0029,62,Two year,No internet,813,48389.76,5,3,Bank transfer,Yes,No,No
+C0030,7,Month-to-month,Fiber,910,6242.60,4,4,Credit card,No,No,Yes
+C0031,24,Month-to-month,Fiber,257,6168.00,,5,Digital wallet,Yes,No,No
+C0032,41,Month-to-month,Fiber,354,14804.28,2,0,Electronic check,Yes,No,No
+C0033,58,Month-to-month,Fiber,451,27204.32,2,1,Bank transfer,No,No,No
+C0034,3,Month-to-month,Fiber,548,1742.64,1,2,Credit card,Yes,No,Yes
+C0035,20,One year,DSL,645,13932.00,0,4,Digital wallet,Yes,Yes,No
+C0036,37,One year,DSL,742,25257.68,7,5,Electronic check,No,No,No
+C0037,54,One year,DSL,839,42587.64,6,0,Bank transfer,Yes,No,No
+C0038,71,Two year,DSL,936,63797.76,5,1,Credit card,Yes,No,No
+C0039,16,Two year,No internet,283,4437.44,4,2,Digital wallet,No,No,No
+C0040,33,Month-to-month,Fiber,380,12540.00,3,3,Electronic check,Yes,No,No
+C0041,50,Month-to-month,Fiber,477,24327.00,2,4,Bank transfer,Yes,No,No
+C0042,67,Month-to-month,Fiber,574,39996.32,1,0,Credit card,No,Yes,No
+C0043,12,Month-to-month,Fiber,671,8535.12,0,1,Digital wallet,Yes,No,No
+C0044,29,Month-to-month,Fiber,768,24053.76,0,2,Electronic check,Yes,No,No
+C0045,46,One year,DSL,865,36606.80,7,3,Bank transfer,No,No,Yes
+C0046,63,One year,DSL,962,56969.64,6,4,Credit card,Yes,No,No
+C0047,8,One year,DSL,309,2373.12,5,5,Digital wallet,Yes,No,Yes
+C0048,25,Two year,DSL,406,9947.00,4,0,Electronic check,No,No,No
+C0049,42,Two year,No internet,503,21126.00,3,2,Bank transfer,Yes,Yes,No
+C0050,59,Month-to-month,Fiber,600,36108.00,2,3,Credit card,Yes,No,No
+C0051,4,Month-to-month,Fiber,697,2899.52,1,4,Digital wallet,No,No,Yes
+C0052,21,Month-to-month,Fiber,794,17674.44,0,5,Electronic check,Yes,No,Yes
+C0053,38,Month-to-month,Fiber,891,36566.64,7,0,Bank transfer,Yes,No,No
+C0054,55,Month-to-month,Fiber,988,49992.80,6,1,Credit card,No,No,Yes
+C0055,72,One year,DSL,335,22672.80,6,2,Digital wallet,Yes,No,No
+C0056,17,One year,DSL,432,7050.24,5,4,Electronic check,Yes,Yes,No
+C0057,34,One year,DSL,529,17626.28,4,5,Bank transfer,No,No,No
+C0058,51,Two year,DSL,626,31926.00,3,0,Credit card,Yes,No,No
+C0059,68,Two year,No internet,723,50147.28,2,1,Digital wallet,Yes,No,No
+C0060,13,Month-to-month,Fiber,820,11086.40,1,2,Electronic check,No,No,Yes
+C0061,30,Month-to-month,Fiber,917,29160.60,0,3,Bank transfer,Yes,No,No
+C0062,47,Month-to-month,Fiber,264,13400.64,7,4,Credit card,Yes,No,Yes
+C0063,64,Month-to-month,Fiber,361,21255.68,6,0,Digital wallet,No,Yes,No
+C0064,9,Month-to-month,Fiber,458,3874.68,5,1,Electronic check,Yes,No,Yes
+C0065,26,One year,DSL,555,13852.80,4,2,Bank transfer,Yes,No,No
+C0066,43,One year,DSL,652,27475.28,4,3,Credit card,No,No,No
+C0067,60,One year,DSL,749,44940.00,3,4,Digital wallet,Yes,No,No
+C0068,5,Two year,DSL,846,4314.60,2,5,Electronic check,Yes,No,No
+C0069,22,Two year,No internet,943,21575.84,1,0,Bank transfer,No,No,No
+C0070,39,Month-to-month,Fiber,290,11988.60,0,2,Credit card,Yes,Yes,No
+C0071,56,Month-to-month,Fiber,387,23405.76,7,3,Digital wallet,Yes,No,Yes
+C0072,1,Month-to-month,Fiber,484,445.28,6,4,Electronic check,No,No,Yes
+C0073,18,Month-to-month,Fiber,581,9830.52,5,5,Bank transfer,Yes,No,Yes
+C0074,35,Month-to-month,Fiber,678,22780.80,4,0,Credit card,Yes,No,No
+C0075,52,One year,DSL,775,39494.00,3,1,Digital wallet,No,No,No
+C0076,69,One year,DSL,872,60168.00,2,2,Electronic check,Yes,No,No
+C0077,14,One year,DSL,969,13837.32,2,4,Bank transfer,Yes,Yes,No
+C0078,31,Two year,DSL,316,10187.84,1,5,Credit card,No,No,No
+C0079,48,Two year,No internet,413,21013.44,0,0,Digital wallet,Yes,No,No
+C0080,65,Month-to-month,Fiber,510,35802.00,7,1,Electronic check,Yes,No,No
+C0081,10,Month-to-month,Fiber,607,5584.40,6,2,Bank transfer,No,No,Yes
+C0082,27,Month-to-month,Fiber,704,17867.52,5,3,Credit card,Yes,No,Yes
+C0083,44,Month-to-month,Fiber,801,33834.24,4,4,Digital wallet,Yes,No,Yes
+C0084,61,Month-to-month,Fiber,898,53682.44,3,0,Electronic check,No,Yes,No
+C0085,6,One year,DSL,995,5970.00,2,1,Bank transfer,Yes,No,No
+C0086,23,One year,DSL,342,8023.32,1,2,Credit card,Yes,No,No
+C0087,40,One year,DSL,439,18262.40,0,3,Digital wallet,No,No,No
+C0088,57,Two year,DSL,536,32385.12,0,4,Electronic check,Yes,No,No
+C0089,2,Two year,No internet,633,1367.28,7,5,Bank transfer,Yes,No,No
+C0090,19,Month-to-month,Fiber,730,12760.40,6,0,Credit card,No,No,Yes
+C0091,36,Month-to-month,Fiber,827,27985.68,5,2,Digital wallet,Yes,Yes,Yes
+C0092,53,Month-to-month,Fiber,924,47013.12,4,3,Electronic check,Yes,No,Yes
+C0093,70,Month-to-month,Fiber,271,18590.60,3,4,Bank transfer,No,No,Yes
+C0094,15,Month-to-month,Fiber,368,5520.00,2,5,Credit card,Yes,No,Yes
+C0095,32,One year,DSL,465,15177.60,1,0,Digital wallet,Yes,No,No
+C0096,49,One year,DSL,562,28639.52,0,1,Electronic check,No,No,No
+C0097,66,One year,DSL,659,46103.64,7,2,Bank transfer,Yes,No,No
+C0098,11,Two year,DSL,756,8981.28,6,4,Credit card,Yes,Yes,Yes
+C0099,28,Two year,No internet,853,21973.28,6,5,Digital wallet,No,No,No
+C0100,45,Month-to-month,Fiber,950,40185.00,5,0,Electronic check,Yes,No,No
+C0101,62,Month-to-month,Fiber,297,17677.44,4,1,Bank transfer,Yes,No,No
+C0102,7,Month-to-month,Fiber,394,2702.84,3,2,Credit card,No,No,Yes
+C0103,24,Month-to-month,Fiber,491,11784.00,2,3,Digital wallet,Yes,No,No
+C0104,41,Month-to-month,Fiber,588,24590.16,1,4,Electronic check,Yes,No,No
+C0105,58,One year,DSL,685,41319.20,0,0,Bank transfer,No,Yes,No
+C0106,3,One year,DSL,782,2486.76,7,1,Credit card,Yes,No,Yes
+C0107,20,One year,DSL,879,18986.40,6,2,Digital wallet,Yes,No,Yes
+C0108,37,Two year,DSL,976,33223.04,5,3,Electronic check,No,No,No
+C0109,54,Two year,No internet,323,16395.48,4,4,Bank transfer,Yes,No,No
+C0110,71,Month-to-month,Fiber,420,28627.20,4,5,Credit card,Yes,No,Yes
+C0111,16,Month-to-month,Fiber,517,8106.56,3,0,Digital wallet,No,No,No
+C0112,33,Month-to-month,Fiber,614,20262.00,2,2,Electronic check,Yes,Yes,No
+C0113,50,Month-to-month,Fiber,711,36261.00,1,3,Bank transfer,Yes,No,No
+C0114,67,Month-to-month,Fiber,808,56301.44,0,4,Credit card,No,No,Yes
+C0115,12,One year,DSL,905,11511.60,7,5,Digital wallet,Yes,No,Yes
+C0116,29,One year,DSL,252,7892.64,6,0,Electronic check,Yes,No,No
+C0117,46,One year,DSL,349,14769.68,5,1,Bank transfer,No,No,No
+C0118,63,Two year,DSL,446,26412.12,4,2,Credit card,Yes,No,No
+C0119,8,Two year,No internet,543,4170.24,3,4,Digital wallet,Yes,Yes,No
+C0120,25,Month-to-month,Fiber,640,15680.00,2,5,Electronic check,No,No,Yes
+C0121,42,Month-to-month,Fiber,737,30954.00,2,0,Bank transfer,Yes,No,No
+C0122,59,Month-to-month,Fiber,834,50190.12,1,1,Credit card,Yes,No,No
+C0123,4,Month-to-month,Fiber,931,3872.96,0,2,Digital wallet,No,No,Yes
+C0124,21,Month-to-month,Fiber,278,6188.28,7,3,Electronic check,Yes,No,Yes
+C0125,38,One year,DSL,375,15390.00,6,4,Bank transfer,Yes,No,No
+C0126,55,One year,DSL,472,23883.20,5,0,Credit card,No,Yes,No
+C0127,72,One year,DSL,569,38509.92,4,1,Digital wallet,Yes,No,No
+C0128,17, Two year ,DSL,666,10869.12,,2,Electronic check,Yes,No,No
+C0129,34,Two year,No internet,763,25423.16,2,3,Bank transfer,No,No,No
+C0130,51,Month-to-month,Fiber,860,43860.00,1,4,Credit card,Yes,No,No
+C0131,68,Month-to-month,Fiber,957,66377.52,0,5,Digital wallet,Yes,No,No
+C0132,13,Month-to-month,Fiber,304,4110.08,0,0,Electronic check,No,No,No
+C0133,30,Month-to-month,Fiber,401,12751.80,7,2,Bank transfer,Yes,Yes,Yes
+C0134,47,Month-to-month,Fiber,498,25278.48,6,3,Credit card,Yes,No,Yes
+C0135,64,One year,DSL,595,35033.60,5,4,Digital wallet,No,No,No
+C0136,9,One year,DSL,692,5854.32,4,5,Electronic check,Yes,No,Yes
+C0137,26,One year,DSL,789,19693.44,3,0,Bank transfer,Yes,No,No
+C0138,43,Two year,DSL,886,37336.04,2,1,Credit card,No,No,No
+C0139,60,Two year,No internet,983,58980.00,1,2,Digital wallet,Yes,No,No
+C0140,5,Month-to-month,Fiber,330,1683.00,0,4,Electronic check,Yes,Yes,Yes
+C0141,22,Month-to-month,Fiber,427,9769.76,7,5,Bank transfer,No,No,Yes
+C0142,39,Month-to-month,Fiber,524,21662.16,6,0,Credit card,Yes,No,No
+C0143,56,Month-to-month,Fiber,621,37558.08,6,1,Digital wallet,Yes,No,No
+C0144,1,Month-to-month,Fiber,718,660.56,5,2,Electronic check,No,No,Yes
+C0145,18,One year,DSL,815,13789.80,4,3,Bank transfer,Yes,No,Yes
+C0146,35,One year,DSL,912,30643.20,3,4,Credit card,Yes,No,No
+C0147,52,One year,DSL,259,13198.64,2,0,Digital wallet,No,Yes,No
+C0148,69,Two year,DSL,356,24564.00,1,1,Electronic check,Yes,No,No
+C0149,14,Two year,No internet,453,6468.84,0,2,Bank transfer,Yes,No,No
+C0150,31,Month-to-month,Fiber,550,17732.00,7,3,Credit card,No,No,Yes
+C0151,48,Month-to-month,Fiber,647,32919.36,6,4,Digital wallet,Yes,No,Yes
+C0152,65,Month-to-month,Fiber,744,52228.80,5,5,Electronic check,Yes,No,Yes
+C0153,10,Month-to-month,Fiber,841,7737.20,4,0,Bank transfer  ,No,No,Yes
+C0154,27,Month-to-month,Fiber,938,23806.44,4,2,Credit card,Yes,Yes,Yes
+C0155,44,One year,DSL,285,12038.40,3,3,Digital wallet,Yes,No,No
+C0156,61,One year,DSL,382,22835.96,2,4,Electronic check,No,No,No
+C0157,6,One year,DSL,479,2874.00,1,5,Bank transfer,Yes,No,No
+C0158,23,Two year,DSL,576,13512.96,0,0,Credit card,Yes,No,No
+C0159,40,Two year,No internet,673,27996.80,7,1,Digital wallet,No,No,No
+C0160,57,Month-to-month,Fiber,770,46523.40,6,2,Electronic check,Yes,No,Yes
+C0161,2,Month-to-month,Fiber,867,1872.72,5,4,Bank transfer,Yes,Yes,Yes
+C0162,19,Month-to-month,Fiber,964,16850.72,4,5,Credit card,No,No,Yes
+C0163,36,Month-to-month,Fiber,311,10524.24,3,0,Digital wallet,Yes,No,No
+C0164,53,Month-to-month,Fiber,408,20759.04,2,1,Electronic check,Yes,No,No
+C0165,70,One year,DSL,505,34643.00,2,2,Bank transfer,No,No,No
+C0166,15,One year,DSL,602,9030.00,1,3,Credit card,Yes,No,No
+C0167,32,One year,DSL,699,22815.36,0,4,Digital wallet,Yes,No,No
+C0168,49,Two year,DSL,796,40564.16,7,0,Electronic check,No,Yes,No
+C0169,66,Two year,No internet,893,62474.28,6,1,Bank transfer,Yes,No,No
+C0170,11,Month-to-month,Fiber,990,11761.20,5,2,Credit card,Yes,No,Yes
+C0171,28,Month-to-month,Fiber,337,8681.12,4,3,Digital wallet,No,No,Yes
+C0172,45,Month-to-month,Fiber,434,18358.20,3,4,Electronic check,Yes,No,No
+C0173,62,Month-to-month,Fiber,531,31605.12,2,5,Bank transfer,Yes,No,No
+C0174,7,Month-to-month,Fiber,628,4308.08,1,0,Credit card,No,No,No
+C0175,24,One year,DSL,725,17400.00,0,2,Digital wallet,Yes,Yes,No
+C0176,41,One year,DSL,822,34376.04,0,3,Electronic check,Yes,No,No
+C0177,58,One year,DSL,919,55434.08,7,4,Bank transfer,No,No,Yes
+C0178,3,Two year,DSL,266,845.88,6,5,Credit card,Yes,No,No
+C0179,20,Two year,No internet,363,7840.80,5,0,Digital wallet,Yes,No,No
+C0180,37,Month-to-month,Fiber,460,15658.40,4,1,Electronic check,No,No,Yes
+C0181,54,Month-to-month,Fiber,557,28273.32,3,2,Bank transfer,Yes,No,No
+C0182,71,Month-to-month,Fiber,654,44576.64,2,4,Credit card,Yes,Yes,No
+C0183,16,Month-to-month,Fiber,751,11775.68,1,5,Digital wallet,No,No,Yes
+C0184,33,Month-to-month,Fiber,848,27984.00,0,0,Electronic check,Yes,No,No
+C0185,50,One year,DSL,945,48195.00,7,1,Bank transfer,Yes,No,No
+C0186,67,One year,DSL,292,20346.56,6,2,Credit card,No,No,No
+C0187,12,One year,DSL,389,4948.08,6,3,Digital wallet,Yes,No,No
+C0188,29,Two year,DSL,486,15221.52,5,4,Electronic check,Yes,No,No
+C0189,46,Two year,No internet,583,24672.56,4,0,Bank transfer,No,Yes,No
+C0190,63,Month-to-month,Fiber,680,40269.60,3,1,Credit card,Yes,No,No
+C0191,8,Month-to-month,Fiber,777,5967.36,2,2,Digital wallet,Yes,No,Yes
+C0192,25,Month-to-month,Fiber,874,21413.00,1,3,Electronic check,No,No,Yes
+C0193,42,Month-to-month,Fiber,971,40782.00,0,4,Bank transfer,Yes,No,No
+C0194,59,Month-to-month,Fiber,318,19137.24,7,5,Credit card,Yes,No,Yes
+C0195,4,One year,DSL,415,1726.40,6,0,Digital wallet,No,No,No
+C0196,21,One year,DSL,512,11397.12,5,2,Electronic check,Yes,Yes,No
+C0197,38,One year,DSL,609,24993.36,4,3,Bank transfer,Yes,No,No
+C0198,55,Two year,DSL,706,35723.60,4,4,Credit card,No,No,No
+C0199,72,Two year,No internet,803,54347.04,3,5,Digital wallet,Yes,No,No
+C0200,17,Month-to-month,Fiber,900,14688.00,2,0,Electronic check,Yes,No,No
+C0201,34,Month-to-month,Fiber,997,33220.04,1,1,Bank transfer,No,No,No
+C0202,51,Month-to-month,Fiber,344,17544.00,0,2,Credit card,Yes,No,No
+C0203,68,Month-to-month,Fiber,441,30587.76,7,4,Digital wallet,Yes,Yes,Yes
+C0204,13,Month-to-month,Fiber,538,7273.76,6,5,Electronic check,No,No,Yes
+C0205,30,One year,DSL,635,20193.00,5,0,Bank transfer,Yes,No,No
+C0206,47,One year,DSL,732,37156.32,4,1,Credit card,Yes,No,No
+C0207,64,One year,DSL,829,48811.52,3,2,Digital wallet,No,No,No
+C0208,9,Two year,DSL,926,7833.96,2,3,Electronic check,Yes,No,No
+C0209,26,Two year,No internet,273,6814.08,2,4,Bank transfer,Yes,No,No
+C0210,43,Month-to-month,Fiber,370,15591.80,1,0,Credit card,No,Yes,No
+C0211,60,Month-to-month,Fiber,467,28020.00,0,1,Digital wallet,Yes,No,No
+C0212,5,Month-to-month,Fiber,564,2876.40,7,2,Electronic check,Yes,No,Yes
+C0213,22,Month-to-month,Fiber,661,15123.68,6,3,Bank transfer,No,No,Yes
+C0214,39,Month-to-month,Fiber,758,31335.72,5,4,Credit card,Yes,No,Yes
+C0215,56,One year,DSL,855,51710.40,4,5,Digital wallet,Yes,No,No
+C0216,1,One year,DSL,952,875.84,3,0,Electronic check,No,No,No
+C0217,18,One year,DSL,299,5059.08,2,2,Bank transfer,Yes,Yes,No
+C0218,35,Two year,DSL,396,13305.60,1,3,Credit card,Yes,No,No
+C0219,52,Two year,No internet,493,25123.28,0,4,Digital wallet,No,No,No
+C0220,69,Month-to-month,Fiber,590,40710.00,0,5,Electronic check,Yes,No,No
+C0221,14,Month-to-month,Fiber,687,9810.36,7,0,Bank transfer,Yes,No,No
+C0222,31,Month-to-month,Fiber,784,25276.16,6,1,Credit card,No,No,Yes
+C0223,48,Month-to-month,Fiber,881,44825.28,5,2,Digital wallet,Yes,No,Yes
+C0224,65,Month-to-month,Fiber,978,68655.60,4,4,Electronic check,Yes,Yes,Yes
+C0225,10,One year,DSL,325,2990.00,,5,Bank transfer,No,No,Yes
+C0226,27,One year,DSL,422,10710.36,2,0,Credit card,Yes,No,No
+C0227,44,One year,DSL,519,21922.56,1,1,Digital wallet,Yes,No,No
+C0228,61,Two year,DSL,616,36824.48,0,2,Electronic check,No,No,No
+C0229,6,Two year,No internet,713,4278.00,7,3,Bank transfer,Yes,No,No
+C0230,23,Month-to-month,Fiber,810,19002.60,6,4,Credit card,Yes,No,Yes
+C0231,40,Month-to-month,Fiber,907,37731.20,6,0,Digital wallet,No,Yes,Yes
+C0232,57,Month-to-month,Fiber,254,15346.68,5,1,Electronic check,Yes,No,No
+C0233,2,Month-to-month,Fiber,351,758.16,4,2,Bank transfer,Yes,No,Yes
+C0234,19,Month-to-month,Fiber,448,7831.04,3,3,Credit card,No,No,Yes
+C0235,36,One year,DSL,545,18442.80,2,4,Digital wallet,Yes,No,No
+C0236,53,One year,DSL,642,32664.96,1,5,Electronic check,Yes,No,No
+C0237,70,One year,DSL,739,50695.40,0,0,Bank transfer,No,No,No
+C0238,15,Two year,DSL,836,12540.00,7,2,Credit card,Yes,Yes,No
+C0239,32,Two year,No internet,933,30453.12,6,3,Digital wallet,Yes,No,No
+C0240,49,Month-to-month,Fiber,280,14268.80,5,4,Electronic check,No,No,Yes
+C0241,66, Month-to-month ,Fiber,377,26374.92,4,5,Bank transfer,Yes,No,Yes
+C0242,11,Month-to-month,Fiber,474,5631.12,4,0,Credit card,Yes,No,Yes
+C0243,28,Month-to-month,Fiber,571,14708.96,3,1,Digital wallet,No,No,No
+C0244,45,Month-to-month,Fiber,668,28256.40,2,2,Electronic check,Yes,No,No
+C0245,62,One year,DSL,765,45532.80,1,4,Bank transfer,Yes,Yes,No
+C0246,7,One year,DSL,862,5913.32,0,5,Credit card,No,No,Yes
+C0247,24,One year,DSL,959,23016.00,7,0,Digital wallet,Yes,No,No
+C0248,41,Two year,DSL,306,12796.92,6,1,Electronic check,Yes,No,No
+C0249,58,Two year,No internet,403,24308.96,5,2,Bank transfer,No,No,No
+C0250,3,Month-to-month,Fiber,500,1590.00,4,3,Credit card,Yes,No,Yes
+C0251,20,Month-to-month,Fiber,597,12895.20,3,4,Digital wallet,Yes,No,Yes
+C0252,37,Month-to-month,Fiber,694,23623.76,2,0,Electronic check,No,Yes,No
+C0253,54,Month-to-month,Fiber,791,40151.16,2,1,Bank transfer,Yes,No,No
+C0254,71,Month-to-month,Fiber,888,60526.08,1,2,Credit card,Yes,No,No
+C0255,16,One year,DSL,985,15444.80,0,3,Digital wallet,No,No,No
+C0256,33,One year,DSL,332,10956.00,7,4,Electronic check,Yes,No,No
+C0257,50,One year,DSL,429,21879.00,6,5,Bank transfer,Yes,No,No
+C0258,67,Two year,DSL,526,36651.68,5,0,Credit card,No,No,No
+C0259,12,Two year,No internet,623,7924.56,4,2,Digital wallet,Yes,Yes,No
+C0260,29,Month-to-month,Fiber,720,22550.40,3,3,Electronic check,Yes,No,No
+C0261,46,Month-to-month,Fiber,817,34575.44,2,4,Bank transfer,No,No,Yes
+C0262,63,Month-to-month,Fiber,914,54127.08,1,5,Credit card,Yes,No,No
+C0263,8,Month-to-month,Fiber,261,2004.48,0,0,Digital wallet,Yes,No,No
+C0264,25,Month-to-month,Fiber,358,8771.00,0,1,Electronic check,No,No,No
+C0265,42,One year,DSL,455,19110.00,7,2,Bank transfer,Yes,No,No
+C0266,59,One year,DSL,552,33219.36,6,4,Credit card,Yes,Yes,No
+C0267,4,One year,DSL,649,2699.84,5,5,Digital wallet,No,No,Yes
+C0268,21,Two year,DSL,746,16605.96,4,0,Electronic check,Yes,No,No
+C0269,38,Two year,No internet,843,34596.72,3,1,Bank transfer,Yes,No,No
+C0270,55,Month-to-month,Fiber,940,47564.00,2,2,Credit card,No,No,Yes
+C0271,72,Month-to-month,Fiber,287,19424.16,1,3,Digital wallet,Yes,No,No
+C0272,17,Month-to-month,Fiber,384,6266.88,0,4,Electronic check,Yes,No,No
+C0273,34,Month-to-month,Fiber,481,16026.92,7,0,Bank transfer,No,Yes,No
+C0274,51,Month-to-month,Fiber,578,29478.00,6,1,Credit card,Yes,No,No
+C0275,68,One year,DSL,675,46818.00,6,2,Digital wallet,Yes,No,No
+C0276,13,One year,DSL,772,10437.44,5,3,Electronic check,No,No,Yes
+C0277,30,One year,DSL,869,27634.20,4,4,Bank transfer,Yes,No,No
+C0278,47,Two year,DSL,966,49034.16,3,5,Credit card,Yes,No,No
+C0279,64,Two year,No internet,313,18429.44,2,0,Digital wallet,No,No,No
+C0280,9,Month-to-month,Fiber,410,3468.60,1,2,Electronic check  ,Yes,Yes,Yes
+C0281,26,Month-to-month,Fiber,507,12654.72,0,3,Bank transfer,Yes,No,No
+C0282,43,Month-to-month,Fiber,604,25452.56,7,4,Credit card,No,No,Yes
+C0283,60,Month-to-month,Fiber,701,42060.00,6,5,Digital wallet,Yes,No,Yes
+C0284,5,Month-to-month,Fiber,798,4069.80,5,0,Electronic check,Yes,No,Yes
+C0285,22,One year,DSL,895,20477.60,4,1,Bank transfer,No,No,Yes
+C0286,39,One year,DSL,992,41009.28,4,2,Credit card,Yes,No,No
+C0287,56,One year,DSL,339,20502.72,3,4,Digital wallet,Yes,Yes,No
+C0288,1,Two year,DSL,436,401.12,2,5,Electronic check,No,No,No
+C0289,18,Two year,No internet,533,9018.36,1,0,Bank transfer,Yes,No,No
+C0290,35,Month-to-month,Fiber,630,21168.00,0,1,Credit card,Yes,No,No
+C0291,52,Month-to-month,Fiber,727,37047.92,7,2,Digital wallet,No,No,Yes
+C0292,69,Month-to-month,Fiber,824,56856.00,6,3,Electronic check,Yes,No,Yes
+C0293,14,Month-to-month,Fiber,921,13151.88,5,4,Bank transfer,Yes,No,Yes
+C0294,31,Month-to-month,Fiber,268,8640.32,4,0,Credit card,No,Yes,No
+C0295,48,One year,DSL,365,18571.20,3,1,Digital wallet,Yes,No,No
+C0296,65,One year,DSL,462,32432.40,2,2,Electronic check,Yes,No,No
+C0297,10,One year,DSL,559,5142.80,2,3,Bank transfer,No,No,Yes
+C0298,27,Two year,DSL,656,16649.28,1,4,Credit card,Yes,No,No
+C0299,44,Two year,No internet,753,31806.72,0,5,Digital wallet,Yes,No,No
+C0300,61,Month-to-month,Fiber,850,50813.00,7,0,Electronic check,No,No,Yes
+C0301,6,Month-to-month,Fiber,947,5682.00,6,2,Bank transfer,Yes,Yes,Yes
+C0302,23,Month-to-month,Fiber,294,6897.24,5,3,Credit card,Yes,No,Yes
+C0303,40,Month-to-month,Fiber,391,16265.60,4,4,Digital wallet,No,No,Yes
+C0304,57,Month-to-month,Fiber,488,29484.96,3,5,Electronic check,Yes,No,No
+C0305,2,One year,DSL,585,1263.60,2,0,Bank transfer,Yes,No,No
+C0306,19,One year,DSL,682,11921.36,1,1,Credit card,No,No,No
+C0307,36,One year,DSL,779,26361.36,0,2,Digital wallet,Yes,No,No
+C0308,53,Two year,DSL,876,44570.88,0,4,Electronic check,Yes,Yes,No
+C0309,70,Two year,No internet,973,66747.80,7,5,Bank transfer,No,No,No
+C0310,15,Month-to-month,Fiber,320,4800.00,6,0,Credit card,Yes,No,No
+C0311,32,Month-to-month,Fiber,417,13610.88,5,1,Digital wallet,Yes,No,No
+C0312,49,Month-to-month,Fiber,514,26193.44,4,2,Electronic check,No,No,Yes
+C0313,66,Month-to-month,Fiber,611,42745.56,3,3,Bank transfer,Yes,No,No
+C0314,11,Month-to-month,Fiber,708,8411.04,2,4,Credit card,Yes,No,Yes
+C0315,28,One year,DSL,805,20736.80,1,0,Digital wallet,No,Yes,No
+C0316,45,One year,DSL,902,38154.60,0,1,Electronic check,Yes,No,No
+C0317,62,One year,DSL,999,59460.48,7,2,Bank transfer,Yes,No,No
+C0318,7,Two year,DSL,346,2373.56,6,3,Credit card,No,No,Yes
+C0319,24,Two year,No internet,443,10632.00,6,4,Digital wallet,Yes,No,No
+C0320,41,Month-to-month,Fiber,540,22582.80,5,5,Electronic check,Yes,No,Yes
+C0321,58,Month-to-month,Fiber,637,38423.84,4,0,Bank transfer,No,No,No
+C0322,3,Month-to-month,Fiber,734,2334.12,,2,Credit card,Yes,Yes,Yes
+C0323,20,Month-to-month,Fiber,831,17949.60,2,3,Digital wallet,Yes,No,Yes
+C0324,37,Month-to-month,Fiber,928,31589.12,1,4,Electronic check,No,No,Yes
+C0325,54,One year,DSL,275,13959.00,0,5,Bank transfer,Yes,No,No
+C0326,71,One year,DSL,372,25355.52,7,0,Credit card,Yes,No,No
+C0327,16,One year,DSL,469,7353.92,6,1,Digital wallet,No,No,No
+C0328,33,Two year,DSL,566,18678.00,5,2,Electronic check,Yes,No,No
+C0329,50,Two year,No internet,663,33813.00,4,4,Bank transfer,Yes,Yes,No
+C0330,67,Month-to-month,Fiber,760,52956.80,4,5,Credit card,No,No,Yes
+C0331,12,Month-to-month,Fiber,857,10901.04,3,0,Digital wallet,Yes,No,No
+C0332,29,Month-to-month,Fiber,954,29879.28,2,1,Electronic check,Yes,No,No
+C0333,46,Month-to-month,Fiber,301,12738.32,1,2,Bank transfer,No,No,No
+C0334,63,Month-to-month,Fiber,398,23569.56,0,3,Credit card,Yes,No,No
+C0335,8,One year,DSL,495,3801.60,7,4,Digital wallet,Yes,No,Yes
+C0336,25,One year,DSL,592,14504.00,6,0,Electronic check,No,Yes,No
+C0337,42,One year,DSL,689,28938.00,5,1,Bank transfer,Yes,No,No
+C0338,59,Two year,DSL,786,47301.48,4,2,Credit card,Yes,No,No
+C0339,4,Two year,No internet,883,3673.28,3,3,Digital wallet,No,No,Yes
+C0340,21,Month-to-month,Fiber,980,21814.80,2,4,Electronic check,Yes,No,Yes
+C0341,38,Month-to-month,Fiber,327,13420.08,2,5,Bank transfer,Yes,No,No
+C0342,55,Month-to-month,Fiber,424,21454.40,1,0,Credit card,No,No,No
+C0343,72,Month-to-month,Fiber,521,35261.28,0,2,Digital wallet,Yes,Yes,No
+C0344,17,Month-to-month,Fiber,618,10085.76,7,3,Electronic check,Yes,No,Yes
+C0345,34,One year,DSL,715,23823.80,6,4,Bank transfer,No,No,No
+C0346,51,One year,DSL,812,41412.00,5,5,Credit card,Yes,No,No
+C0347,68,One year,DSL,909,63048.24,4,0,Digital wallet,Yes,No,No
+C0348,13,Two year,DSL,256,3461.12,3,1,Electronic check,No,No,No
+C0349,30,Two year,No internet,353,11225.40,2,2,Bank transfer,Yes,No,No
+C0350,47,Month-to-month,Fiber,450,22842.00,1,4,Credit card,Yes,Yes,No
+C0351,64,Month-to-month,Fiber,547,32207.36,0,5,Digital wallet,No,No,No
+C0352,9,Month-to-month,Fiber,644,5448.24,0,0,Electronic check,Yes,No,No
+C0353,26,Month-to-month,Fiber,741,18495.36,7,1,Bank transfer,Yes,No,No
+C0354,43, Month-to-month ,Fiber,838,35313.32,6,2,Credit card,No,No,Yes
+C0355,60,One year,DSL,935,56100.00,5,3,Digital wallet,Yes,No,No
+C0356,5,One year,DSL,282,1438.20,4,4,Electronic check,Yes,No,Yes
+C0357,22,One year,DSL,379,8671.52,3,0,Bank transfer,No,Yes,No
+C0358,39,Two year,DSL,476,19677.84,2,1,Credit card,Yes,No,No
+C0359,56,Two year,No internet,573,34655.04,1,2,Digital wallet,Yes,No,No
+C0360,1,Month-to-month,Fiber,670,616.40,0,3,Electronic check,No,No,Yes
+C0361,18,Month-to-month,Fiber,767,12977.64,7,4,Bank transfer,Yes,No,Yes
+C0362,35,Month-to-month,Fiber,864,29030.40,6,5,Credit card,Yes,No,Yes
+C0363,52,Month-to-month,Fiber,961,48972.56,6,0,Digital wallet,No,No,Yes
+C0364,69,Month-to-month,Fiber,308,21252.00,5,2,Electronic check,Yes,Yes,Yes
+C0365,14,One year,DSL,405,5783.40,4,3,Bank transfer,Yes,No,No
+C0366,31,One year,DSL,502,16184.48,3,4,Credit card,No,No,No
+C0367,48,One year,DSL,599,30477.12,2,5,Digital wallet,Yes,No,No
+C0368,65,Two year,DSL,696,48859.20,1,0,Electronic check,Yes,No,No
+C0369,10,Two year,No internet,793,7295.60,0,1,Bank transfer,No,No,No
+C0370,27,Month-to-month,Fiber,890,22588.20,7,2,Credit card,Yes,No,Yes
+C0371,44,Month-to-month,Fiber,987,41690.88,6,4,Digital wallet,Yes,Yes,Yes
+C0372,61,Month-to-month,Fiber,334,19966.52,5,5,Electronic check,No,No,Yes
+C0373,6,Month-to-month,Fiber,431,2586.00,4,0,Bank transfer,Yes,No,Yes
+C0374,23,Month-to-month,Fiber,528,12386.88,4,1,Credit card,Yes,No,Yes
+C0375,40,One year,DSL,625,26000.00,3,2,Digital wallet,No,No,No
+C0376,57,One year,DSL,722,43623.24,2,3,Electronic check,Yes,No,No
+C0377,2,One year,DSL,819,1769.04,1,4,Bank transfer,Yes,No,No
+C0378,19,Two year,DSL,916,16011.68,0,0,Credit card,No,Yes,No
+C0379,36,Two year,No internet,263,8899.92,7,1,Digital wallet,Yes,No,No
+C0380,53,Month-to-month,Fiber,360,18316.80,6,2,Electronic check,Yes,No,Yes
+C0381,70,Month-to-month,Fiber,457,31350.20,5,3,Bank transfer,No,No,Yes
+C0382,15,Month-to-month,Fiber,554,8310.00,4,4,Credit card,Yes,No,Yes
+C0383,32,Month-to-month,Fiber,651,21248.64,3,5,Digital wallet,Yes,No,No
+C0384,49,Month-to-month,Fiber,748,38118.08,2,0,Electronic check,No,No,No
+C0385,66,One year,DSL,845,59116.20,2,2,Bank transfer,Yes,Yes,No
+C0386,11,One year,DSL,942,11190.96,1,3,Credit card,Yes,No,No
+C0387,28,One year,DSL,289,7444.64,0,4,Digital wallet,No,No,No
+C0388,45,Two year,DSL,386,16327.80,7,5,Electronic check,Yes,No,No
+C0389,62,Two year,No internet,483,28748.16,6,0,Bank transfer,Yes,No,No
+C0390,7,Month-to-month,Fiber,580,3978.80,5,1,Credit card,No,No,Yes
+C0391,24,Month-to-month,Fiber,677,16248.00,4,2,Digital wallet,Yes,No,Yes
+C0392,41,Month-to-month,Fiber,774,32368.68,3,4,Electronic check,Yes,Yes,Yes
+C0393,58,Month-to-month,Fiber,871,52538.72,2,5,Bank transfer,No,No,Yes
+C0394,3,Month-to-month,Fiber,968,3078.24,1,0,Credit card,Yes,No,No
+C0395,20,One year,DSL,315,6804.00,0,1,Digital wallet,Yes,No,No
+C0396,37,One year,DSL,412,14024.48,0,2,Electronic check,No,No,No
+C0397,54,One year,DSL,509,25836.84,7,3,Bank transfer,Yes,No,No
+C0398,71,Two year,DSL,606,41304.96,6,4,Credit card,Yes,No,No
+C0399,16,Two year,No internet,703,11023.04,5,0,Digital wallet,No,Yes,No
+C0400,33,Month-to-month,Fiber,800,26400.00,4,1,Electronic check,Yes,No,Yes
+C0401,50,Month-to-month,Fiber,897,45747.00,3,2,Bank transfer,Yes,No,Yes
+C0402,67,Month-to-month,Fiber,994,69261.92,2,3,Credit card,No,No,Yes
+C0403,12,Month-to-month,Fiber,341,4337.52,1,4,Digital wallet,Yes,No,No
+C0404,29,Month-to-month,Fiber,438,13718.16,0,5,Electronic check,Yes,No,No
+C0405,46,One year,DSL,535,22641.20,7,0,Bank transfer,No,No,No
+C0406,63,One year,DSL,632,37427.04,6,2,Credit card,Yes,Yes,No
+C0407,8,One year,DSL,729,5598.72,6,3,Digital wallet  ,Yes,No,Yes
+C0408,25,Two year,DSL,826,20237.00,5,4,Electronic check,No,No,No
+C0409,42,Two year,No internet,923,38766.00,4,5,Bank transfer,Yes,No,No
+C0410,59,Month-to-month,Fiber,270,16248.60,3,0,Credit card,Yes,No,No
+C0411,4,Month-to-month,Fiber,367,1526.72,2,1,Digital wallet,No,No,Yes
+C0412,21,Month-to-month,Fiber,464,10328.64,1,2,Electronic check,Yes,No,No
+C0413,38,Month-to-month,Fiber,561,23023.44,0,4,Bank transfer,Yes,Yes,No
+C0414,55,Month-to-month,Fiber,658,33294.80,7,5,Credit card,No,No,Yes
+C0415,72,One year,DSL,755,51098.40,6,0,Digital wallet,Yes,No,No
+C0416,17,One year,DSL,852,13904.64,5,1,Electronic check,Yes,No,No
+C0417,34,One year,DSL,949,31620.68,4,2,Bank transfer,No,No,Yes
+C0418,51,Two year,DSL,296,15096.00,4,3,Credit card,Yes,No,No
+C0419,68,Two year,No internet,393,27258.48,,4,Digital wallet,Yes,No,No
+C0420,13,Month-to-month,Fiber,490,6624.80,2,0,Electronic check,No,Yes,No
+C0421,30,Month-to-month,Fiber,587,18666.60,1,1,Bank transfer,Yes,No,No
+C0422,47,Month-to-month,Fiber,684,34719.84,0,2,Credit card,Yes,No,No
+C0423,64,Month-to-month,Fiber,781,45985.28,7,3,Digital wallet,No,No,Yes
+C0424,9,Month-to-month,Fiber,878,7427.88,6,4,Electronic check,Yes,No,Yes
+C0425,26,One year,DSL,975,24336.00,5,5,Bank transfer,Yes,No,No
+C0426,43,One year,DSL,322,13569.08,4,0,Credit card,No,No,No
+C0427,60,One year,DSL,419,25140.00,3,2,Digital wallet,Yes,Yes,No
+C0428,5,Two year,DSL,516,2631.60,2,3,Electronic check,Yes,No,No
+C0429,22,Two year,No internet,613,14025.44,2,4,Bank transfer,No,No,No
+C0430,39,Month-to-month,Fiber,710,29351.40,1,5,Credit card,Yes,No,No
+C0431,56,Month-to-month,Fiber,807,48807.36,0,0,Digital wallet,Yes,No,No
+C0432,1,Month-to-month,Fiber,904,831.68,7,1,Electronic check,No,No,Yes
+C0433,18,Month-to-month,Fiber,251,4246.92,6,2,Bank transfer,Yes,No,Yes
+C0434,35,Month-to-month,Fiber,348,11692.80,5,4,Credit card,Yes,Yes,Yes
+C0435,52,One year,DSL,445,22677.20,4,5,Digital wallet,No,No,No
+C0436,69,One year,DSL,542,37398.00,3,0,Electronic check,Yes,No,No
+C0437,14,One year,DSL,639,9124.92,2,1,Bank transfer,Yes,No,No
+C0438,31,Two year,DSL,736,23728.64,1,2,Credit card,No,No,No
+C0439,48,Two year,No internet,833,42383.04,0,3,Digital wallet,Yes,No,No
+C0440,65,Month-to-month,Fiber,930,65286.00,0,4,Electronic check,Yes,No,No
+C0441,10,Month-to-month,Fiber,277,2548.40,7,0,Bank transfer,No,Yes,Yes
+C0442,27,Month-to-month,Fiber,374,9492.12,6,1,Credit card,Yes,No,No
+C0443,44,Month-to-month,Fiber,471,19895.04,5,2,Digital wallet,Yes,No,Yes
+C0444,61,Month-to-month,Fiber,568,33955.04,4,3,Electronic check,No,No,Yes
+C0445,6,One year,DSL,665,3990.00,3,4,Bank transfer,Yes,No,No
+C0446,23,One year,DSL,762,17876.52,2,5,Credit card,Yes,No,No
+C0447,40,One year,DSL,859,35734.40,1,0,Digital wallet,No,No,No
+C0448,57,Two year,DSL,956,57761.52,0,2,Electronic check,Yes,Yes,No
+C0449,2,Two year,No internet,303,654.48,7,3,Bank transfer,Yes,No,No
+C0450,19,Month-to-month,Fiber,400,6992.00,6,4,Credit card,No,No,Yes
+C0451,36,Month-to-month,Fiber,497,16818.48,6,5,Digital wallet,Yes,No,Yes
+C0452,53,Month-to-month,Fiber,594,30222.72,5,0,Electronic check,Yes,No,No
+C0453,70,Month-to-month,Fiber,691,47402.60,4,1,Bank transfer,No,No,Yes
+C0454,15,Month-to-month,Fiber,788,11820.00,3,2,Credit card,Yes,No,Yes
+C0455,32,One year,DSL,885,28886.40,2,4,Digital wallet,Yes,Yes,No
+C0456,49,One year,DSL,982,50042.72,1,5,Electronic check,No,No,No
+C0457,66,One year,DSL,329,23016.84,0,0,Bank transfer,Yes,No,No
+C0458,11,Two year,DSL,426,5060.88,7,1,Credit card,Yes,No,No
+C0459,28,Two year,No internet,523,13472.48,6,2,Digital wallet,No,No,No
+C0460,45,Month-to-month,Fiber,620,26226.00,5,3,Electronic check,Yes,No,Yes
+C0461,62,Month-to-month,Fiber,717,42675.84,4,4,Bank transfer,Yes,No,Yes
+C0462,7,Month-to-month,Fiber,814,5584.04,4,0,Credit card,No,Yes,Yes
+C0463,24,Month-to-month,Fiber,911,21864.00,3,1,Digital wallet,Yes,No,No
+C0464,41,Month-to-month,Fiber,258,10789.56,2,2,Electronic check,Yes,No,No
+C0465,58,One year,DSL,355,21413.60,1,3,Bank transfer,No,No,No
+C0466,3,One year,DSL,452,1437.36,0,4,Credit card,Yes,No,No
+C0467,20, One year ,DSL,549,11858.40,7,5,Digital wallet,Yes,No,No
+C0468,37,Two year,DSL,646,21989.84,6,0,Electronic check,No,No,No
+C0469,54,Two year,No internet,743,37714.68,5,2,Bank transfer,Yes,Yes,No
+C0470,71,Month-to-month,Fiber,840,57254.40,4,3,Credit card,Yes,No,Yes
+C0471,16,Month-to-month,Fiber,937,14692.16,3,4,Digital wallet,No,No,Yes
+C0472,33,Month-to-month,Fiber,284,9372.00,2,5,Electronic check,Yes,No,No
+C0473,50,Month-to-month,Fiber,381,19431.00,2,0,Bank transfer,Yes,No,No
+C0474,67,Month-to-month,Fiber,478,33307.04,1,1,Credit card,No,No,No
+C0475,12,One year,DSL,575,7314.00,0,2,Digital wallet,Yes,No,No
+C0476,29,One year,DSL,672,21047.04,7,4,Electronic check,Yes,Yes,No
+C0477,46,One year,DSL,769,32544.08,6,5,Bank transfer,No,No,Yes
+C0478,63,Two year,DSL,866,51284.52,5,0,Credit card,Yes,No,No
+C0479,8,Two year,No internet,963,7395.84,4,1,Digital wallet,Yes,No,No
+C0480,25,Month-to-month,Fiber,310,7595.00,3,2,Electronic check,No,No,Yes
+C0481,42,Month-to-month,Fiber,407,17094.00,2,3,Bank transfer,Yes,No,No
+C0482,59,Month-to-month,Fiber,504,30330.72,1,4,Credit card,Yes,No,No
+C0483,4,Month-to-month,Fiber,601,2500.16,0,0,Digital wallet,No,Yes,No
+C0484,21,Month-to-month,Fiber,698,15537.48,0,1,Electronic check,Yes,No,No
+C0485,38,One year,DSL,795,32626.80,7,2,Bank transfer,Yes,No,No
+C0486,55,One year,DSL,892,45135.20,6,3,Credit card,No,No,Yes
+C0487,72,One year,DSL,989,66935.52,5,4,Digital wallet,Yes,No,No
+C0488,17,Two year,DSL,336,5483.52,4,5,Electronic check,Yes,No,No
+C0489,34,Two year,No internet,433,14427.56,3,0,Bank transfer,No,No,No
+C0490,51,Month-to-month,Fiber,530,27030.00,2,2,Credit card,Yes,Yes,No
+C0491,68,Month-to-month,Fiber,627,43488.72,1,3,Digital wallet,Yes,No,No
+C0492,13,Month-to-month,Fiber,724,9788.48,0,4,Electronic check,No,No,Yes
+C0493,30,Month-to-month,Fiber,821,26107.80,7,5,Bank transfer,Yes,No,Yes
+C0494,47,Month-to-month,Fiber,918,46597.68,6,0,Credit card,Yes,No,No
+C0495,64,One year,DSL,265,15603.20,6,1,Digital wallet,No,No,No
+C0496,9,One year,DSL,362,3062.52,5,2,Electronic check,Yes,No,Yes
+C0497,26,One year,DSL,459,11456.64,4,4,Bank transfer,Yes,Yes,No
+C0498,43,Two year,DSL,556,23429.84,3,5,Credit card,No,No,No
+C0499,60,Two year,No internet,653,39180.00,2,0,Digital wallet,Yes,No,No
+C0500,5,Month-to-month,Fiber,750,3825.00,1,1,Electronic check,Yes,No,No
+C0501,22,Month-to-month,Fiber,847,19379.36,0,2,Bank transfer,No,No,Yes
+C0502,39,Month-to-month,Fiber,944,39024.96,7,3,Credit card,Yes,No,Yes
+C0503,56,Month-to-month,Fiber,291,17599.68,6,4,Digital wallet,Yes,No,Yes
+C0504,1,Month-to-month,Fiber,388,356.96,5,0,Electronic check,No,Yes,Yes
+C0505,18,One year,DSL,485,8206.20,4,1,Bank transfer,Yes,No,No
+C0506,35,One year,DSL,582,19555.20,4,2,Credit card,Yes,No,No
+C0507,52,One year,DSL,679,34601.84,3,3,Digital wallet,No,No,No
+C0508,69,Two year,DSL,776,53544.00,2,4,Electronic check,Yes,No,No
+C0509,14,Two year,No internet,873,12466.44,1,5,Bank transfer,Yes,No,No
+C0510,31,Month-to-month,Fiber,970,31272.80,0,0,Credit card,No,No,No
+C0511,48,Month-to-month,Fiber,317,16128.96,7,2,Digital wallet,Yes,Yes,Yes
+C0512,65,Month-to-month,Fiber,414,29062.80,6,3,Electronic check,Yes,No,Yes
+C0513,10,Month-to-month,Fiber,511,4701.20,5,4,Bank transfer,No,No,Yes
+C0514,27,Month-to-month,Fiber,608,15431.04,4,5,Credit card,Yes,No,Yes
+C0515,44,One year,DSL,705,29779.20,3,0,Digital wallet,Yes,No,No
+C0516,61,One year,DSL,802,47943.56,,1,Electronic check,No,No,No
+C0517,6,One year,DSL,899,5394.00,2,2,Bank transfer,Yes,No,Yes
+C0518,23,Two year,DSL,996,23366.16,1,4,Credit card,Yes,Yes,No
+C0519,40,Two year,No internet,343,14268.80,0,5,Digital wallet,No,No,No
+C0520,57,Month-to-month,Fiber,440,26584.80,7,0,Electronic check,Yes,No,No
+C0521,2,Month-to-month,Fiber,537,1159.92,6,1,Bank transfer,Yes,No,Yes
+C0522,19,Month-to-month,Fiber,634,11082.32,5,2,Credit card,No,No,Yes
+C0523,36,Month-to-month,Fiber,731,24737.04,4,3,Digital wallet,Yes,No,Yes
+C0524,53,Month-to-month,Fiber,828,42128.64,3,4,Electronic check,Yes,No,Yes
+C0525,70,One year,DSL,925,63455.00,2,0,Bank transfer,No,Yes,No
+C0526,15,One year,DSL,272,4080.00,1,1,Credit card,Yes,No,No
+C0527,32,One year,DSL,369,12044.16,0,2,Digital wallet,Yes,No,No
+C0528,49,Two year,DSL,466,23747.36,0,3,Electronic check,No,No,No
+C0529,66,Two year,No internet,563,39387.48,7,4,Bank transfer,Yes,No,No
+C0530,11,Month-to-month,Fiber,660,7840.80,6,5,Credit card,Yes,No,Yes
+C0531,28,Month-to-month,Fiber,757,19500.32,5,0,Digital wallet,No,No,Yes
+C0532,45,Month-to-month,Fiber,854,36124.20,4,2,Electronic check,Yes,Yes,Yes
+C0533,62,Month-to-month,Fiber,951,56603.52,3,3,Bank transfer,Yes,No,Yes
+C0534,7,Month-to-month,Fiber,298,2044.28,2,4,Credit card  ,No,No,Yes
+C0535,24,One year,DSL,395,9480.00,1,5,Digital wallet,Yes,No,No
+C0536,41,One year,DSL,492,20575.44,0,0,Electronic check,Yes,No,No
+C0537,58,One year,DSL,589,35528.48,7,1,Bank transfer,No,No,No
+C0538,3,Two year,DSL,686,2181.48,6,2,Credit card,Yes,No,No
+C0539,20,Two year,No internet,783,16912.80,6,4,Digital wallet,Yes,Yes,No
+C0540,37,Month-to-month,Fiber,880,29955.20,5,5,Electronic check,No,No,Yes
+C0541,54,Month-to-month,Fiber,977,49592.52,4,0,Bank transfer,Yes,No,No
+C0542,71,Month-to-month,Fiber,324,22083.84,3,1,Credit card,Yes,No,No
+C0543,16,Month-to-month,Fiber,421,6601.28,2,2,Digital wallet,No,No,Yes
+C0544,33,Month-to-month,Fiber,518,17094.00,1,3,Electronic check,Yes,No,No
+C0545,50,One year,DSL,615,31365.00,0,4,Bank transfer,Yes,No,No
+C0546,67,One year,DSL,712,49612.16,7,0,Credit card,No,Yes,No
+C0547,12,One year,DSL,809,10290.48,6,1,Digital wallet,Yes,No,No
+C0548,29,Two year,DSL,906,28375.92,5,2,Electronic check,Yes,No,No
+C0549,46,Two year,No internet,253,10706.96,4,3,Bank transfer,No,No,No
+C0550,63,Month-to-month,Fiber,350,20727.00,4,4,Credit card,Yes,No,Yes
+C0551,8,Month-to-month,Fiber,447,3432.96,3,5,Digital wallet,Yes,No,Yes
+C0552,25,Month-to-month,Fiber,544,13328.00,2,0,Electronic check,No,No,No
+C0553,42,Month-to-month,Fiber,641,26922.00,1,2,Bank transfer,Yes,Yes,No
+C0554,59,Month-to-month,Fiber,738,44412.84,0,3,Credit card,Yes,No,No
+C0555,4,One year,DSL,835,3473.60,7,4,Digital wallet,No,No,Yes
+C0556,21,One year,DSL,932,20746.32,6,5,Electronic check,Yes,No,Yes
+C0557,38,One year,DSL,279,11450.16,5,0,Bank transfer,Yes,No,No
+C0558,55,Two year,DSL,376,19025.60,4,1,Credit card,No,No,No
+C0559,72,Two year,No internet,473,32012.64,3,2,Digital wallet,Yes,No,No
+C0560,17,Month-to-month,Fiber,570,9302.40,2,4,Electronic check,Yes,Yes,Yes
+C0561,34,Month-to-month,Fiber,667,22224.44,2,5,Bank transfer,No,No,Yes
+C0562,51,Month-to-month,Fiber,764,38964.00,1,0,Credit card,Yes,No,No
+C0563,68,Month-to-month,Fiber,861,59718.96,0,1,Digital wallet,Yes,No,No
+C0564,13,Month-to-month,Fiber,958,12952.16,7,2,Electronic check,No,No,Yes
+C0565,30,One year,DSL,305,9699.00,6,3,Bank transfer,Yes,No,No
+C0566,47,One year,DSL,402,20405.52,5,4,Credit card,Yes,No,No
+C0567,64,One year,DSL,499,29381.12,4,0,Digital wallet,No,Yes,No
+C0568,9,Two year,DSL,596,5042.16,3,1,Electronic check,Yes,No,No
+C0569,26,Two year,No internet,693,17297.28,2,2,Bank transfer,Yes,No,No
+C0570,43,Month-to-month,Fiber,790,33290.60,1,3,Credit card,No,No,Yes
+C0571,60,Month-to-month,Fiber,887,53220.00,0,4,Digital wallet,Yes,No,No
+C0572,5,Month-to-month,Fiber,984,5018.40,0,5,Electronic check,Yes,No,Yes
+C0573,22,Month-to-month,Fiber,331,7573.28,7,0,Bank transfer,No,No,Yes
+C0574,39,Month-to-month,Fiber,428,17693.52,6,2,Credit card,Yes,Yes,Yes
+C0575,56,One year,DSL,525,31752.00,5,3,Digital wallet,Yes,No,No
+C0576,1,One year,DSL,622,572.24,4,4,Electronic check,No,No,Yes
+C0577,18,One year,DSL,719,12165.48,3,5,Bank transfer,Yes,No,No
+C0578,35,Two year,DSL,816,27417.60,2,0,Credit card,Yes,No,No
+C0579,52,Two year,No internet,913,46526.48,1,1,Digital wallet,No,No,No
+C0580,69, Month-to-month ,Fiber,260,17940.00,0,2,Electronic check,Yes,No,No
+C0581,14,Month-to-month,Fiber,357,5097.96,7,4,Bank transfer,Yes,Yes,Yes
+C0582,31,Month-to-month,Fiber,454,14636.96,6,5,Credit card,No,No,Yes
+C0583,48,Month-to-month,Fiber,551,28034.88,6,0,Digital wallet,Yes,No,No
+C0584,65,Month-to-month,Fiber,648,45489.60,5,1,Electronic check,Yes,No,No
+C0585,10,One year,DSL,745,6854.00,4,2,Bank transfer,No,No,Yes
+C0586,27,One year,DSL,842,21369.96,3,3,Credit card,Yes,No,No
+C0587,44,One year,DSL,939,39663.36,2,4,Digital wallet,Yes,No,No
+C0588,61,Two year,DSL,286,17097.08,1,0,Electronic check,No,Yes,No
+C0589,6,Two year,No internet,383,2298.00,0,1,Bank transfer,Yes,No,No
+C0590,23,Month-to-month,Fiber,480,11260.80,7,2,Credit card,Yes,No,Yes
+C0591,40,Month-to-month,Fiber,577,24003.20,6,3,Digital wallet,No,No,Yes
+C0592,57,Month-to-month,Fiber,674,40723.08,5,4,Electronic check,Yes,No,Yes
+C0593,2,Month-to-month,Fiber,771,1665.36,4,5,Bank transfer,Yes,No,Yes
+C0594,19,Month-to-month,Fiber,868,15172.64,4,0,Credit card,No,No,Yes
+C0595,36,One year,DSL,965,32655.60,3,2,Digital wallet,Yes,Yes,No
+C0596,53,One year,DSL,312,15874.56,2,3,Electronic check,Yes,No,No
+C0597,70,One year,DSL,409,28057.40,1,4,Bank transfer,No,No,No
+C0598,15,Two year,DSL,506,7590.00,0,5,Credit card,Yes,No,No
+C0599,32,Two year,No internet,603,19681.92,7,0,Digital wallet,Yes,No,No
+C0600,49,Month-to-month,Fiber,700,35672.00,6,1,Electronic check,No,No,Yes
+C0601,66,Month-to-month,Fiber,797,55758.12,5,2,Bank transfer,Yes,No,Yes
+C0602,11,Month-to-month,Fiber,894,10620.72,4,4,Credit card,Yes,Yes,Yes
+C0603,28,Month-to-month,Fiber,991,25528.16,3,5,Digital wallet,No,No,Yes
+C0604,45,Month-to-month,Fiber,338,14297.40,2,0,Electronic check,Yes,No,No
+C0605,62,One year,DSL,435,25891.20,2,1,Bank transfer,Yes,No,No
+C0606,7,One year,DSL,532,3649.52,1,2,Credit card,No,No,No
+C0607,24,One year,DSL,629,15096.00,0,3,Digital wallet,Yes,No,No
+C0608,41,Two year,DSL,726,30361.32,7,4,Electronic check,Yes,No,No
+C0609,58,Two year,No internet,823,49643.36,6,0,Bank transfer,No,Yes,No
+C0610,3,Month-to-month,Fiber,920,2925.60,5,1,Credit card,Yes,No,Yes
+C0611,20,Month-to-month,Fiber,267,5767.20,4,2,Digital wallet,Yes,No,Yes
+C0612,37,Month-to-month,Fiber,364,12390.56,3,3,Electronic check,No,No,Yes
+C0613,54,Month-to-month,Fiber,461,23400.36,,4,Bank transfer,Yes,No,No
+C0614,71,Month-to-month,Fiber,558,38033.28,1,5,Credit card,Yes,No,No
+C0615,16,One year,DSL,655,10270.40,0,0,Digital wallet,No,No,No
+C0616,33,One year,DSL,752,24816.00,0,2,Electronic check,Yes,Yes,No
+C0617,50,One year,DSL,849,43299.00,7,3,Bank transfer,Yes,No,No
+C0618,67,Two year,DSL,946,65917.28,6,4,Credit card,No,No,No
+C0619,12,Two year,No internet,293,3726.96,5,5,Digital wallet,Yes,No,No
+C0620,29,Month-to-month,Fiber,390,12214.80,4,0,Electronic check,Yes,No,No
+C0621,46,Month-to-month,Fiber,487,20609.84,3,1,Bank transfer,No,No,No
+C0622,63,Month-to-month,Fiber,584,34584.48,2,2,Credit card,Yes,No,No
+C0623,8,Month-to-month,Fiber,681,5230.08,1,4,Digital wallet,Yes,Yes,Yes
+C0624,25,Month-to-month,Fiber,778,19061.00,0,5,Electronic check,No,No,Yes
+C0625,42,One year,DSL,875,36750.00,7,0,Bank transfer,Yes,No,No
+C0626,59,One year,DSL,972,58494.96,6,1,Credit card,Yes,No,No
+C0627,4,One year,DSL,319,1327.04,6,2,Digital wallet,No,No,Yes
+C0628,21,Two year,DSL,416,9260.16,5,3,Electronic check,Yes,No,No
+C0629,38,Two year,No internet,513,21053.52,4,4,Bank transfer,Yes,No,No
+C0630,55,Month-to-month,Fiber,610,30866.00,3,0,Credit card,No,Yes,No
+C0631,72,Month-to-month,Fiber,707,47849.76,2,1,Digital wallet,Yes,No,No
+C0632,17,Month-to-month,Fiber,804,13121.28,1,2,Electronic check,Yes,No,Yes
+C0633,34,Month-to-month,Fiber,901,30021.32,0,3,Bank transfer,No,No,Yes
+C0634,51,Month-to-month,Fiber,998,50898.00,7,4,Credit card,Yes,No,Yes
+C0635,68,One year,DSL,345,23929.20,6,5,Digital wallet,Yes,No,No
+C0636,13,One year,DSL,442,5975.84,5,0,Electronic check,No,No,No
+C0637,30,One year,DSL,539,17140.20,4,2,Bank transfer,Yes,Yes,No
+C0638,47,Two year,DSL,636,32283.36,4,3,Credit card,Yes,No,No
+C0639,64,Two year,No internet,733,43159.04,3,4,Digital wallet,No,No,No
+C0640,9,Month-to-month,Fiber,830,7021.80,2,5,Electronic check,Yes,No,Yes
+C0641,26,Month-to-month,Fiber,927,23137.92,1,0,Bank transfer,Yes,No,No
+C0642,43,Month-to-month,Fiber,274,11546.36,0,1,Credit card,No,No,No
+C0643,60,Month-to-month,Fiber,371,22260.00,7,2,Digital wallet,Yes,No,Yes
+C0644,5,Month-to-month,Fiber,468,2386.80,6,4,Electronic check,Yes,Yes,Yes
+C0645,22,One year,DSL,565,12927.20,5,5,Bank transfer,No,No,Yes
+C0646,39,One year,DSL,662,27367.08,4,0,Credit card,Yes,No,No
+C0647,56,One year,DSL,759,45904.32,3,1,Digital wallet,Yes,No,No
+C0648,1,Two year,DSL,856,787.52,2,2,Electronic check,No,No,Yes
+C0649,18,Two year,No internet,953,16124.76,2,3,Bank transfer,Yes,No,No
+C0650,35,Month-to-month,Fiber,300,10080.00,1,4,Credit card,Yes,No,No
+C0651,52,Month-to-month,Fiber,397,20231.12,0,0,Digital wallet,No,Yes,No
+C0652,69,Month-to-month,Fiber,494,34086.00,7,1,Electronic check,Yes,No,No
+C0653,14,Month-to-month,Fiber,591,8439.48,6,2,Bank transfer,Yes,No,Yes
+C0654,31,Month-to-month,Fiber,688,22181.12,5,3,Credit card,No,No,Yes
+C0655,48,One year,DSL,785,39940.80,4,4,Digital wallet,Yes,No,No
+C0656,65,One year,DSL,882,61916.40,3,5,Electronic check,Yes,No,No
+C0657,10,One year,DSL,979,9006.80,2,0,Bank transfer,No,No,No
+C0658,27,Two year,DSL,326,8273.88,1,2,Credit card,Yes,Yes,No
+C0659,44,Two year,No internet,423,17867.52,0,3,Digital wallet,Yes,No,No
+C0660,61,Month-to-month,Fiber,520,31085.60,0,4,Electronic check,No,No,No
+C0661,6,Month-to-month,Fiber,617,3702.00,7,5,Bank transfer  ,Yes,No,Yes
+C0662,23,Month-to-month,Fiber,714,16750.44,6,0,Credit card,Yes,No,No
+C0663,40,Month-to-month,Fiber,811,33737.60,5,1,Digital wallet,No,No,Yes
+C0664,57,Month-to-month,Fiber,908,54861.36,4,2,Electronic check,Yes,No,Yes
+C0665,2,One year,DSL,255,550.80,3,4,Bank transfer,Yes,Yes,No
+C0666,19,One year,DSL,352,6152.96,2,5,Credit card,No,No,No
+C0667,36,One year,DSL,449,15194.16,1,0,Digital wallet,Yes,No,No
+C0668,53,Two year,DSL,546,27780.48,0,1,Electronic check,Yes,No,No
+C0669,70,Two year,No internet,643,44109.80,7,2,Bank transfer,No,No,No
+C0670,15,Month-to-month,Fiber,740,11100.00,6,3,Credit card,Yes,No,Yes
+C0671,32,Month-to-month,Fiber,837,27319.68,6,4,Digital wallet,Yes,No,Yes
+C0672,49,Month-to-month,Fiber,934,47596.64,5,0,Electronic check,No,Yes,Yes
+C0673,66,Month-to-month,Fiber,281,19658.76,4,1,Bank transfer,Yes,No,No
+C0674,11,Month-to-month,Fiber,378,4490.64,3,2,Credit card,Yes,No,Yes
+C0675,28,One year,DSL,475,12236.00,2,3,Digital wallet,No,No,No
+C0676,45,One year,DSL,572,24195.60,1,4,Electronic check,Yes,No,No
+C0677,62,One year,DSL,669,39818.88,0,5,Bank transfer,Yes,No,No
+C0678,7,Two year,DSL,766,5254.76,7,0,Credit card,No,No,No
+C0679,24,Two year,No internet,863,20712.00,6,2,Digital wallet,Yes,Yes,No
+C0680,41,Month-to-month,Fiber,960,40147.20,5,3,Electronic check,Yes,No,Yes
+C0681,58,Month-to-month,Fiber,307,18518.24,4,4,Bank transfer,No,No,Yes
+C0682,3,Month-to-month,Fiber,404,1284.72,4,5,Credit card,Yes,No,Yes
+C0683,20,Month-to-month,Fiber,501,10821.60,3,0,Digital wallet,Yes,No,No
+C0684,37,Month-to-month,Fiber,598,20355.92,2,1,Electronic check,No,No,No
+C0685,54,One year,DSL,695,35278.20,1,2,Bank transfer,Yes,No,No
+C0686,71,One year,DSL,792,53982.72,0,4,Credit card,Yes,Yes,No
+C0687,16,One year,DSL,889,13939.52,7,5,Digital wallet,No,No,Yes
+C0688,33,Two year,DSL,986,32538.00,6,0,Electronic check,Yes,No,No
+C0689,50,Two year,No internet,333,16983.00,5,1,Bank transfer,Yes,No,No
+C0690,67,Month-to-month,Fiber,430,29962.40,4,2,Credit card,No,No,Yes
+C0691,12,Month-to-month,Fiber,527,6703.44,3,3,Digital wallet,Yes,No,Yes
+C0692,29,Month-to-month,Fiber,624,19543.68,2,4,Electronic check,Yes,No,No
+C0693,46, Month-to-month ,Fiber,721,30512.72,2,0,Bank transfer,No,Yes,No
+C0694,63,Month-to-month,Fiber,818,48441.96,1,1,Credit card,Yes,No,No
+C0695,8,One year,DSL,915,7027.20,0,2,Digital wallet,Yes,No,No
+C0696,25,One year,DSL,262,6419.00,7,3,Electronic check,No,No,No
+C0697,42,One year,DSL,359,15078.00,6,4,Bank transfer,Yes,No,No
+C0698,59,Two year,DSL,456,27442.08,5,5,Credit card,Yes,No,No
+C0699,4,Two year,No internet,553,2300.48,4,0,Digital wallet,No,No,No
+C0700,21,Month-to-month,Fiber,650,14469.00,3,2,Electronic check,Yes,Yes,Yes
+C0701,38,Month-to-month,Fiber,747,30656.88,2,3,Bank transfer,Yes,No,No
+C0702,55,Month-to-month,Fiber,844,42706.40,1,4,Credit card,No,No,Yes
+C0703,72,Month-to-month,Fiber,941,63686.88,0,5,Digital wallet,Yes,No,No
+C0704,17,Month-to-month,Fiber,288,4700.16,0,0,Electronic check,Yes,No,No
+C0705,34,One year,DSL,385,12828.20,7,1,Bank transfer,No,No,No
+C0706,51,One year,DSL,482,24582.00,6,2,Credit card,Yes,No,No
+C0707,68,One year,DSL,579,40159.44,5,4,Digital wallet,Yes,Yes,No
+C0708,13,Two year,DSL,676,9139.52,4,5,Electronic check,No,No,No
+C0709,30,Two year,No internet,773,24581.40,3,0,Bank transfer,Yes,No,No
+C0710,47,Month-to-month,Fiber,870,44161.20,,1,Credit card,Yes,No,No
+C0711,64,Month-to-month,Fiber,967,56936.96,1,2,Digital wallet,No,No,Yes
+C0712,9,Month-to-month,Fiber,314,2656.44,0,3,Electronic check,Yes,No,Yes
+C0713,26,Month-to-month,Fiber,411,10258.56,7,4,Bank transfer,Yes,No,Yes
+C0714,43,Month-to-month,Fiber,508,21407.12,6,0,Credit card,No,Yes,No
+C0715,60,One year,DSL,605,36300.00,6,1,Digital wallet,Yes,No,No
+C0716,5,One year,DSL,702,3580.20,5,2,Electronic check,Yes,No,Yes
+C0717,22,One year,DSL,799,18281.12,4,3,Bank transfer,No,No,Yes
+C0718,39,Two year,DSL,896,37040.64,3,4,Credit card,Yes,No,No
+C0719,56,Two year,No internet,993,60056.64,2,5,Digital wallet,Yes,No,No
+C0720,1,Month-to-month,Fiber,340,312.80,1,0,Electronic check,No,No,No
+C0721,18,Month-to-month,Fiber,437,7394.04,0,2,Bank transfer,Yes,Yes,No
+C0722,35,Month-to-month,Fiber,534,17942.40,7,3,Credit card,Yes,No,Yes
+C0723,52,Month-to-month,Fiber,631,32155.76,6,4,Digital wallet,No,No,Yes
+C0724,69,Month-to-month,Fiber,728,50232.00,5,5,Electronic check,Yes,No,Yes
+C0725,14,One year,DSL,825,11781.00,4,0,Bank transfer,Yes,No,No
+C0726,31,One year,DSL,922,29725.28,4,1,Credit card,No,No,No
+C0727,48,One year,DSL,269,13686.72,3,2,Digital wallet,Yes,No,No
+C0728,65,Two year,DSL,366,25693.20,2,4,Electronic check,Yes,Yes,No
+C0729,10,Two year,No internet,463,4259.60,1,5,Bank transfer,No,No,No
+C0730,27,Month-to-month,Fiber,560,14212.80,0,0,Credit card,Yes,No,No
+C0731,44,Month-to-month,Fiber,657,27751.68,7,1,Digital wallet,Yes,No,No
+C0732,61,Month-to-month,Fiber,754,45074.12,6,2,Electronic check,No,No,Yes
+C0733,6,Month-to-month,Fiber,851,5106.00,5,3,Bank transfer,Yes,No,Yes
+C0734,23,Month-to-month,Fiber,948,22240.08,4,4,Credit card,Yes,No,Yes
+C0735,40,One year,DSL,295,12272.00,3,0,Digital wallet,No,Yes,No
+C0736,57,One year,DSL,392,23684.64,2,1,Electronic check,Yes,No,No
+C0737,2,One year,DSL,489,1056.24,2,2,Bank transfer,Yes,No,No
+C0738,19,Two year,DSL,586,10243.28,1,3,Credit card,No,No,No
+C0739,36,Two year,No internet,683,23112.72,0,4,Digital wallet,Yes,No,No
+C0740,53,Month-to-month,Fiber,780,39686.40,7,5,Electronic check,Yes,No,Yes
+C0741,70,Month-to-month,Fiber,877,60162.20,6,0,Bank transfer,No,No,Yes
+C0742,15,Month-to-month,Fiber,974,14610.00,5,2,Credit card,Yes,Yes,Yes
+C0743,32,Month-to-month,Fiber,321,10477.44,4,3,Digital wallet,Yes,No,Yes
+C0744,49,Month-to-month,Fiber,418,21301.28,3,4,Electronic check,No,No,Yes
+C0745,66,One year,DSL,515,36029.40,2,5,Bank transfer,Yes,No,No
+C0746,11,One year,DSL,612,7270.56,1,0,Credit card,Yes,No,No
+C0747,28,One year,DSL,709,18263.84,0,1,Digital wallet,No,No,No
+C0748,45,Two year,DSL,806,34093.80,0,2,Electronic check,Yes,No,No
+C0749,62,Two year,No internet,903,53746.56,7,4,Bank transfer,Yes,Yes,No
+C0750,7,Month-to-month,Fiber,250,1715.00,6,5,Credit card,No,No,Yes
+C0751,24,Month-to-month,Fiber,347,8328.00,5,0,Digital wallet,Yes,No,No
+C0752,41,Month-to-month,Fiber,444,18568.08,4,1,Electronic check,Yes,No,No
+C0753,58,Month-to-month,Fiber,541,32633.12,3,2,Bank transfer,No,No,Yes
+C0754,3,Month-to-month,Fiber,638,2028.84,2,3,Credit card,Yes,No,Yes
+C0755,20,One year,DSL,735,15876.00,1,4,Digital wallet,Yes,No,No
+C0756,37,One year,DSL,832,28321.28,0,0,Electronic check,No,Yes,No
+C0757,54,One year,DSL,929,47156.04,7,1,Bank transfer,Yes,No,No
+C0758,71,Two year,DSL,276,18812.16,6,2,Credit card,Yes,No,No
+C0759,16,Two year,No internet,373,5848.64,6,3,Digital wallet,No,No,No
+C0760,33,Month-to-month,Fiber,470,15510.00,5,4,Electronic check,Yes,No,Yes
+C0761,50,Month-to-month,Fiber,567,28917.00,4,5,Bank transfer,Yes,No,Yes
+C0762,67,Month-to-month,Fiber,664,46267.52,3,0,Credit card,No,No,No
+C0763,12,Month-to-month,Fiber,761,9679.92,2,2,Digital wallet,Yes,Yes,Yes
+C0764,29,Month-to-month,Fiber,858,26872.56,1,3,Electronic check,Yes,No,No
+C0765,46,One year,DSL,955,40415.60,0,4,Bank transfer,No,No,No
+C0766,63,One year,DSL,302,17884.44,7,5,Credit card,Yes,No,No
+C0767,8,One year,DSL,399,3064.32,6,0,Digital wallet,Yes,No,No
+C0768,25,Two year,DSL,496,12152.00,5,1,Electronic check,No,No,No
+C0769,42,Two year,No internet,593,24906.00,4,2,Bank transfer,Yes,No,No
+C0770,59,Month-to-month,Fiber,690,41524.20,4,4,Credit card,Yes,Yes,Yes
+C0771,4,Month-to-month,Fiber,787,3273.92,3,5,Digital wallet,No,No,Yes
+C0772,21,Month-to-month,Fiber,884,19677.84,2,0,Electronic check,Yes,No,No
+C0773,38,Month-to-month,Fiber,981,40260.24,1,1,Bank transfer,Yes,No,No
+C0774,55,Month-to-month,Fiber,328,16596.80,0,2,Credit card,No,No,No
+C0775,72,One year,DSL,425,28764.00,7,3,Digital wallet,Yes,No,No
+C0776,17,One year,DSL,522,8519.04,6,4,Electronic check,Yes,No,No
+C0777,34,One year,DSL,619,20625.08,5,0,Bank transfer,No,Yes,No
+C0778,51,Two year,DSL,716,36516.00,4,1,Credit card,Yes,No,No
+C0779,68,Two year,No internet,813,56389.68,3,2,Digital wallet,Yes,No,No
+C0780,13,Month-to-month,Fiber,910,12303.20,2,3,Electronic check,No,No,Yes
+C0781,30,Month-to-month,Fiber,257,8172.60,2,4,Bank transfer,Yes,No,No
+C0782,47,Month-to-month,Fiber,354,17969.04,1,5,Credit card,Yes,No,No
+C0783,64,Month-to-month,Fiber,451,26554.88,0,0,Digital wallet,No,No,No
+C0784,9,Month-to-month,Fiber,548,4636.08,7,2,Electronic check,Yes,Yes,Yes
+C0785,26,One year,DSL,645,16099.20,6,3,Bank transfer,Yes,No,No
+C0786,43,One year,DSL,742,31267.88,5,4,Credit card,No,No,No
+C0787,60,One year,DSL,839,50340.00,4,5,Digital wallet,Yes,No,No
+C0788,5,Two year,DSL,936,4773.60,3,0,Electronic check  ,Yes,No,No
+C0789,22,Two year,No internet,283,6475.04,2,1,Bank transfer,No,No,No
+C0790,39,Month-to-month,Fiber,380,15709.20,1,2,Credit card,Yes,No,No
+C0791,56,Month-to-month,Fiber,477,28848.96,0,4,Digital wallet,Yes,Yes,No
+C0792,1,Month-to-month,Fiber,574,528.08,0,5,Electronic check,No,No,Yes
+C0793,18,Month-to-month,Fiber,671,11353.32,7,0,Bank transfer,Yes,No,No
+C0794,35,Month-to-month,Fiber,768,25804.80,6,1,Credit card,Yes,No,Yes
+C0795,52,One year,DSL,865,44080.40,5,2,Digital wallet,No,No,Yes
+C0796,69,One year,DSL,962,66378.00,4,3,Electronic check,Yes,No,No
+C0797,14,One year,DSL,309,4412.52,3,4,Bank transfer,Yes,No,No
+C0798,31,Two year,DSL,406,13089.44,2,0,Credit card,No,Yes,No
+C0799,48,Two year,No internet,503,25592.64,1,1,Digital wallet,Yes,No,No
+C0800,65,Month-to-month,Fiber,600,42120.00,0,2,Electronic check,Yes,No,No
+C0050,59,Month-to-month,Fiber,600,36108.00,2,3,Credit card,Yes,No,No
+C0150,31,Month-to-month,Fiber,550,17732.00,7,3,Credit card,No,No,Yes
+C0250,3,Month-to-month,Fiber,500,1590.00,4,3,Credit card,Yes,No,Yes
+C0350,47,Month-to-month,Fiber,450,22842.00,1,4,Credit card,Yes,Yes,No
+C0450,19,Month-to-month,Fiber,400,6992.00,6,4,Credit card,No,No,Yes
+C0550,63,Month-to-month,Fiber,350,20727.00,4,4,Credit card,Yes,No,Yes
+C0650,35,Month-to-month,Fiber,300,10080.00,1,4,Credit card,Yes,No,No
+C0750,7,Month-to-month,Fiber,250,1715.00,6,5,Credit card,No,No,Yes
