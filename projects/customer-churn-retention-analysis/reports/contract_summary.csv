@@ -1,0 +1,4 @@
+contract_type,customers,churned,churn_rate,avg_tenure_months,mrr,mrr_at_risk
+Month-to-month,400,232,0.5800,36.34,248950.00,151598.00
+One year,240,32,0.1333,36.80,150780.00,22878.00
+Two year,160,5,0.0313,36.70,99070.00,3214.00
