@@ -1,0 +1,2 @@
+-- Customer churn analysis queries
+SELECT * FROM customer_churn;
